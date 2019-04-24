@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-
-aaaa
-=======
-bbbbb
->>>>>>> test.txt
+bbbbbb
